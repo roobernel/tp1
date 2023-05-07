@@ -1,0 +1,45 @@
+tv 1:SMART TV AOC 50 PULGADAS ULTRA HD 50" 4K
+codigo: CODC175156
+precio:$132.999,00
+descripcion: 
+Diseño moderno con un marco ultrafino para que veas sólo lo que pasa en la TV Este televisor LED te ofrece imágenes con un excelente contraste Xmart: Disfruta de tu Smart TV con una gran variedad d e aplicaciones en línea tales como Netflix y Youtube.
+
+tv2:SMART LED ANDROID TV HITACHI 50 PULGADAS 4K UHD
+codigo:CODE145363
+precio:$116.999,00
+descripcion:Android Tv 4K UHD (3840x2160) de 50" Smart, LED. Potencia 2x 9.5w RMS. Salidas de audio. Bluetooth 5.0. Wi Fi 2.4 GHz. Sintonizador TDA.1 USB / 3 HDMI / 1 AV-IN / 1 LAN / 1 antena/cable. Salidas 1 auricular / 1 SPDIF optica (audio digital) Incluye contro remoto y base.
+
+tv3: SMART TV SKYWORTH 50 PULGADAS UHD 4K
+codigo:CODC177704
+precio:$143.299,00
+descripcion:Especificaciones Técnicas * Marca: Skyworth * Modelo: 50G22 * Pantalla 4K DLED: 50" * Control por voz * Resolución: 3840 x 2160 px * Relación de contraste: 5000:1 * Tiempo de respuesta: 8 Ms * Escala de pantalla: 16:9 * Angulo de Visión: H: 178º, V: 178º
+
+tv4:SMART TV E-NOVA 50 PULGADAS ULTRA HD SMART TV ENOVA
+codigo: CODC177708
+precio:$130.799,00
+descripcion:Primer TV enova con sistema operativo androidtv. Diseño elegante de 50 pulgadas y bordes ultradelgados. Excelente contraste. Gracias al sistema operativo, es posible acceder e instalar *toda las apps permitidas por Google Play.
+
+tv5:LED HYUNDAI 50 PULGADAS ULTRA HD 
+codigo:CODC177917
+precio:$127.999,00
+descripcion:El smart tv 50 pulgadas Hyundai cuenta con una pantalla UHD que posee una resolución de 3840x2160 píxeles la cual brinda una excelente calidad de imagen y contraste. Gracias a que posee Wi-Fi incorpo rado vas a poder acceder a internet de forma inalámbrica. 
+
+tv6:SMART QLED GOOGLE TV TCL 50 PULGADAS 4K UHD 
+codigo: CODC178194E146947
+precio:$143.099,00
+descripcion:Televisor QLED Smart Android Google. Pantalla LED de 50" UHD 4K 3840x2160. Procesador 64-bit A554 1.3GHz. Memoria 16GB eMMC5.0. Formato de pantalla 16:9. Frecuencia de barrido 60Hz. - sonido integrado Onkyo. Bluetooth 5.0GHz. Wi Fi 2.4 y 5.0 GHz. Entrada video compuesto. 
+
+tv7:SMART NEO QLED TV SAMSUNG 50 PULGADAS 4K UHD
+codigo: CODE147028
+precio: $466.999,00
+descripcion: Neo QLED revoluciona los estándares de imágenes con Mini LED 40 veces más chicos que los convencionales. El resultado es un negro mucho más preciso y un brillo perfecto, aportando mucho más realismo al contenido visto.Con la innovadora característica 4K de 144 Hz en la pantalla del TV, Motion Xcelerator Turbo Pro ofrece un rendimiento máximo, ya que crea imágenes consistentemente nítidas y velocidades increíblemente rápidas.
+
+tv8: SMART LED ANDROID TV RCA 50 PULGADAS 4K UHD C50AND
+codigo:CODE147682
+precio:$114.999,00
+descripcion:  Televisor Android Smart LED. Pantalla de 50" 4K (3840 x 2160). Relacion aspecto 16:09. Frecuencia de barrido 50/60Hz. 2 Parlantes integrados. Potencia de salida 2 x 8W. Sistema de sonido MTS (Estereo/Mono/SAP). Entradas: 1 RF (75 ohms) Antena/Cable 1 Video AV 1 Audio R/L. 4 HDMI. 2 USB. 1 LAN. Salidas: 1 Auricular. 1 Audio S/PDIF Optica ( Audio Digital). Bluetooth. Wi Fi.
+
+tv9:SMART LED ANDROID TV CROWN MUSTANG 50 PULGADAS 4K
+codigo:CODE148134
+precio: $124.999,00
+descripcion:Televisor Smart android. Pantalla LED de 50" UHD 4K (3840x2160). Formato de pantalla 16:9. Radio contraste 5000:1. Brillo 250 CD/M2. Angulo de vision 178 (H y V). Colores display 16.7M. Tiempo de respuesta 6.5ms. Sonido stereo. Potencia de sonido 2x 10W. Sistema de video ATV:NTSC DTV:ISDB-T. Conexiones: RJ45. Optica. 4 Entradas HDMI 2.0. AV IN. 2 Entradas USB 2.0.
