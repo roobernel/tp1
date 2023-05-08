@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 2</title>
+    <style>
+        body{
+            background: lightcoral;
+            color: purple;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            align-self: center;
+        }
+        #items{
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            width: 95vw;
+            gap: 10px;
+        }
+        .producto{
+            display: flex;
+            flex-direction: column;
+            align-content: center;
+            justify-content: center;
+            background: blueviolet;
+            border-radius: 5%;
+            width: 300px;
+            height: 400px;
+            text-align: center;
+            color: white;
+        }
+        form{
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-top: 10px;
+            margin-bottom: 30px;
+
+        }
+        .campoform{
+            width: 200px;
+            border-radius: 10px;
+            height: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Texit</h1>
+    <h2>Sabemos de productos</h2>
+    <button onclick="cargar();"> Cargar productos</button>
+    <button onclick="info()">Ver productos</button>
+
+
+    <form action="#" id="forms"> </form>
+    <section id="items"></section>
+
+    <script src="ejercicio2.js"></script>
+    
+</body>
+</html>
