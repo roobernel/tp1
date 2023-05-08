@@ -26,16 +26,14 @@ celulares[8]=['Samsung M13 liberado','recursos1/m13',89999];
 
 
 function info(){
-    let mostrar=''
-    mostrar+='<section>'
-
+    let mostrar='';
     for(let x in celulares){
         mostrar+=`<div class="card">
-        <p> ${celulares[x][1]} </p>
-        <img src="${celulares[x][2]}" alt="celular">
-        <p> $ ${celulares[x][3]}</p>    
-        </div>`
+        <h2> ${celulares[x][0]} </h2>
+        <a href="#items"><img src="${celulares[x][1]}.jpg" alt="celular"></a>
+        <p> $ ${celulares[x][2]}</p>    
+        </div>`;
     }
-    mostrar+='</section>'
-    document.write(`${mostrar}`)
+    document.getElementById("items").innerHTML=mostrar;
 }
+

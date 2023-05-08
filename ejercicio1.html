@@ -5,13 +5,62 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ejercicio 1</title>
+    <style>
+        #items{
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            width: 90vw;
+            height: auto;
+            background: #ff00e1;
+            gap: 20px;
+        }
+        .card{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            width: 20vw;
+            height: 30vw;
+            background: #252273;
+            color: #66B1f2;
+            border-radius: 5%;
+        }
+        .card :hover{
+            color: #252273;
+            background: #66b1f2;   
+        }
+        img{
+            height: 10vw;
+            width: auto;
+        }
+        h2{
+            font-size: 14px;
+        }
+        p{
+            font-weight: 800;
+        }
+        body{
+            background: goldenrod;
+            color: #252273;
+        }
+        
+    </style>
+
 </head>
+
 <body>
-    <h1> Roliplus </h1>
-<button onclick="info();"> Mostrar Productor</button>
-    
 
 
-    <script src="ejercicio1.js"></script>
+    <h1>El Roliplus </h1>
+    <button onclick="info();"> Mostrar Productor</button>
+    <section id="items"></section>
+
+
+
+
+        <script src="ejercicio1.js"></script>
 </body>
 </html>
