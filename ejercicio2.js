@@ -18,7 +18,8 @@ function cargar(){
     <input type="text" class="campoform" placeholder="Categoría de producto" id="categoria" required>
     <input type="number" class="campoform" placeholder="Precio de producto" id="precio" required>
     <input type="text" class="campoform" placeholder="Descripción de prodcuto" id="descripcion" required>
-    <input type="submit" onclick="obtener();" value="Cargar productos">`
+    <input type="submit" onclick="obtener();" value="Cargar productos">
+    <input type="reset" value="Restablecer campos"> `
     document.getElementById("forms").innerHTML=mostrar;
 }
 let productos=[];
