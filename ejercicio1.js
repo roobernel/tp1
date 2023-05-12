@@ -30,7 +30,7 @@ function info(){
     for(let x in celulares){
         mostrar+=`<div class="card">
         <h2> ${celulares[x][0]} </h2>
-        <a href="#items"><img src="${celulares[x][1]}.jpg" alt="celular"></a>
+        <a href="index.html" target="_blank" ><img src="${celulares[x][1]}.jpg" alt="celular"></a>
         <p> $ ${celulares[x][2]}</p>    
         </div>`;
     }
